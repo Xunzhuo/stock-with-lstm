@@ -1,4 +1,4 @@
-# Stock-with-LSTM
+# Stock-with-LSTM🤖️
 
 # Introduction
 
