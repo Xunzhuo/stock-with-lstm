@@ -6,24 +6,26 @@ Stock-with-LSTM is a small Deep Learning Project to make Stock-Market prediction
 
 ## Usage
 
-+ If you want to use it, please use Jupyter NoteBook 
++ If you want to use it, please use **Jupyter** **notebook** 
 
-  + ``` shell
-    # pip3
-    pip3 install notebook
-    # pip
-    pip install notebook
-    # conda
-    conda install -c conda-forge notebook
-    ```
-    
-  + Run
+  + **Install**
+
+  ``` shell
+  # pip3
+  pip3 install notebook
+  # pip
+  pip install notebook
+  # conda
+  conda install -c conda-forge notebook
+  ```
+
+  + **Run**
 
     ``` shell
     jupyter notebook
     ```
 
-    See [Running the Notebook](https://jupyter.readthedocs.io/en/latest/running.html#running) for more details.
+    > See [Running the Notebook](https://jupyter.readthedocs.io/en/latest/running.html#running) for more details.
 
 + Or you can try the online version of notebook 
   
